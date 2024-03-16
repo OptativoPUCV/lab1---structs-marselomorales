@@ -73,3 +73,9 @@ exercises.c:56:35: error: ‘count’ undeclared (first use in this function)
 exercises.c:56:35: note: each undeclared identifier is reported only once for each function it appears in
 Compilation failed
 d778042
+Sat 16 Mar 2024 12:45:27 AM UTC: 
+ exercises.c | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+ tests:  0|4
+total_score: 30/70
+a05c6b7
