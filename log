@@ -50,3 +50,9 @@ exercises.c:34:11: error: unused variable ‘temp’ [-Werror=unused-variable]
 cc1: all warnings being treated as errors
 Compilation failed
 17d76ee
+Sat 16 Mar 2024 12:29:40 AM UTC: 
+ exercises.c | 2 ++
+ 1 file changed, 2 insertions(+)
+ tests:  0|6
+total_score: 10/70
+fa82e5b
